@@ -14,7 +14,7 @@
     Zaliczenie projektowe z przedmiotu <b>Programowanie Funkcyjne</b> WSB Gdańsk 2022/2023
     <br />
     <br />
-    <a href="https://fabulous-strudel-47da68.netlify.app">View Demo</a>
+    <a href="https://whimsical-pasca-89ceea.netlify.app">View Demo</a>
   </p>
   
   <img src="https://user-images.githubusercontent.com/74655164/163682334-fb58cc04-6f5d-45a5-91ad-33fbe86c7d6c.PNG" alt="app1">
