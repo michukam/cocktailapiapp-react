@@ -5,7 +5,7 @@
 <div align="center">
   <a href="">
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/74655164/163681940-2134d09a-321f-4d2c-a227-cae8b21492f3.PNG" alt="Logo">
+   <p align="center"> <img src="https://user-images.githubusercontent.com/74655164/163681940-2134d09a-321f-4d2c-a227-cae8b21492f3.PNG" alt="Logo">  </p>
   </a>
 
   <h3 align="center">KAMKON - Reat APP with cocktails API </h3>
